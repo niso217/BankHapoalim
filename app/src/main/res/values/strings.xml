@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BankHapoalim</string>
+    <string name="title_activity_main">Main</string>
+    <string name="open">Open</string>
+
+    <string name="close">Close</string>
+    <string name="about_the_movie">About the movie</string>
+    <string name="name">Name:</string>
+    <string name="year">Year:</string>
+    <string name="ok">OK</string>
+    <string name="no_internet">Please check your internet connection or try again later</string>
+    <string name="database_name">movies_database</string>
+
+</resources>
